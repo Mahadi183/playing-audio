@@ -1,0 +1,156 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+p{
+  font-size: 1rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 1px 0 #DA0463;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.a {
+  background-image: url("images/natural.jpg");
+}
+
+.b {
+  background-image: url("images/natural.jpg");
+}
+
+.c {
+  background-image: url("images/natural.jpg");
+}
+
+.d {
+  background-image: url("images/natural.jpg");
+}
+
+.e {
+  background-image: url("images/natural.jpg");
+}
+
+.f {
+  background-image: url("images/natural.jpg");
+}
+
+.g {
+  background-image: url("images/natural.jpg");
+}
+
+.h {
+  background-image: url("images/natural.jpg");
+}
+
+.i {
+  background-image: url("images/natural.jpg");
+}
+
+.j {
+  background-image: url("images/natural.jpg");
+}
+
+.k {
+  background-image: url("images/natural.jpg");
+}
+
+.l {
+  background-image: url("images/natural.jpg");
+}
+
+.m {
+  background-image: url("images/natural.jpg");
+}
+
+.n {
+  background-image: url("images/natural.jpg");
+}
+
+.o {
+  background-image: url("images/natural.jpg");
+}
+
+.p {
+  background-image: url("images/natural.jpg");
+}
+
+.q {
+  background-image: url("images/natural.jpg");
+}
+
+.r {
+  background-image: url("images/natural.jpg");
+}
+.s {
+  background-image: url("images/natural.jpg");
+}
+
+.t {
+  background-image: url("images/natural.jpg");
+}
+
+.u {
+  background-image: url("images/natural.jpg");
+}
+
+.v {
+  background-image: url("images/natural.jpg");
+}
+
+.w {
+  background-image: url("images/natural.jpg");
+}
+
+.x {
+  background-image: url("images/natural.jpg");
+}
+
+.y {
+  background-image: url("images/natural.jpg");
+}
+
+.z {
+  background-image: url("images/natural.jpg");
+}
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
